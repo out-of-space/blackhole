@@ -1,0 +1,60 @@
+p {
+    color:white;
+}
+h1{
+    color:white;
+}
+
+#green {
+
+    color:greenyellow;
+    border: 1px solid greenyellow;
+
+}
+#pink {
+    color:pink;
+}
+
+#red {
+
+    color:salmon;
+    border: 1px solid salmon;
+
+}
+
+#blue {
+
+    color:lightblue;
+    border: 1px solid lightblue;
+
+}
+
+#wrapper {
+    width: 500px;
+    border: 1px solid black;
+    overflow: hidden; /* add this to contain floated children */
+}
+#first {
+    
+    float:left; /* add this */
+    border: 1px solid red;
+}
+#second {
+    float: left; /* add this */
+}
+
+#pickAgain {
+    color:whitesmoke;
+}
+
+#animals{
+    background: grey;
+    text-align: center;
+}
+
+#list {
+    color:white;
+}
+ul {
+    list-style-type: none;
+    }

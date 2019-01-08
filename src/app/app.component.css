@@ -1,0 +1,15 @@
+h1 {
+    color:white;
+}
+
+.then {
+    background: lightcoral;  
+}
+
+.else {
+    background: blue;
+}
+
+#hello {
+    color:gold;
+}
